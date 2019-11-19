@@ -1,0 +1,32 @@
+p {
+  color: #EBBAB9;
+  text-align: center; 
+  font-family: 'impact';
+}
+body
+{
+  background-color: #388697;
+}
+
+li {
+ color:#EBBAB9;
+ font-family: 'helvetica';
+}
+
+p {
+  text-align: center;
+  font-size: 50px;
+}
+
+ul{
+  color: #EBBAB9; font-size: 200%;
+}
+
+h1{
+  color: #EBBAB9
+}
+h2{
+  color: #EBBAB9;
+  text-align: center;
+  font-size: 200%
+}
