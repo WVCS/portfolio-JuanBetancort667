@@ -1,3 +1,58 @@
+<p> The Best Sports </p>
+</style>
+</head>
+<body>
+
+<div class="header">
+</div>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+</body>
+</html>
+<ul style="list-style-type:circle;">
+   
+</ul>
+<p> 
+  <a href="https://www.nba.com/"> Basketball </a> </p>
+  <img src="https://officialpsds.com/imageview/7l/29/7l29yy_large.png?1521316502"
+width=400;
+     >
+<img
+src="https://img.pngio.com/pin-by-ariel-on-nbasolo-lebron-james-lakers-lebron-james-lebron-james-png-1272_1904.png"
+  width=450;
+     >
+<h2> Kobe Bryant and LeBron James are two of the greatest players of all time, winning multiple championships each and having contributed to the growth of the NBA 
+  </h2>
+<p>
+<a
+   href="https://www.iaaf.org/records/by-category/world-records"> Track </a>
+</p>
+
+<img
+src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/USA_Track_and_Field.svg/901px-USA_Track_and_Field.svg.png"
+width=500;
+     >
+<img
+src="http://pngriver.com/wp-content/uploads/2018/04/Download-Usain-Bolt-PNG-Transparent-Image.png"
+width=700;
+     >
+<h2> USA Track is on the rise with many young stars including Christian Coleman, Noah Lyles, and Donavan Brazier. Usain Bolt, on the other hand, is a track legend owning three different world records
+  
+<h1> Which one is the best sport?</h1>
+
+<form action="/action_page.php">
+  <input type="checkbox" name="sport1" value="BBall"> Basketball <br>
+  <input type="checkbox" name="sport2" value="Track"> Track <br>
+  <input type="checkbox" name="sport3" value="Other" checked> Other <br><br>
+  <input type="submit" value="Submit">
+</form>
+  <p><a href=""></a></p>
+  }
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -40,8 +95,6 @@ li a:hover {
 <body>
 
 <div class="header">
-  <h2>Scroll Down</h2>
-  <p>Scroll down to see the sticky effect.</p>
 </div>
 
 <ul>
